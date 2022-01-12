@@ -36,7 +36,7 @@ CHIP Not {
     Nand(a=in, b=in, out=out);
 }
 ```
-#Or
+# Or
 
 ```
 /**
